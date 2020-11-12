@@ -96,3 +96,14 @@ header nav a::haver{
 .filme-principal .container{
     width: 70%;
 }
+
+
+.box-serie{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrossel-series{
+    margin-top: 5px;
+}
